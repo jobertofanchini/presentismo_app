@@ -1,0 +1,36 @@
+{
+	"folders": [
+		{
+			"path": "../../.."
+		},
+		{
+			"path": "../../../../../../Desktop/Projects/curso/fullstack/Maquetando"
+		},
+		{
+			"path": "../../../../../../Desktop/Projects/sitios_web/01"
+		},
+		{
+			"path": "../../../../../../Desktop/Projects/sitios_web/02"
+		},
+		{
+			"path": "../../../../../../Desktop/Projects/sitios_web"
+		},
+		{
+			"path": "../../../../../../Desktop/Projects/curso/fullstack/entorno_v/ev_1"
+		},
+		{
+			"path": "../../../../../../Desktop/Projects/formiga_web"
+		},
+		{
+			"path": "../../../../../../Desktop/Projects/recycled"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "formiga_web"
+	},
+	"extensions": {
+		"recommendations": [
+			"ms-ceintl.vscode-language-pack-es"
+		]
+	}
+}
